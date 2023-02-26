@@ -23,9 +23,11 @@ e.g: If the url is https://floorfy.com/tour/417174 you have to run the script th
 
 It will download all the skybox and equirectangular images.  
 And it will configure vtour.json to play the virtual tour with vtour.html  
-Host in a webserver all skybox*jpg, vtour.json, *html, *css, *svg, *png and *js files to play the virtual tour, in the same folder.  
-Equi*jpg files are not needed to play the virtual tour in the web viewer, it can be viewed with Ricoh Theta app and Panini.  
+Host in a webserver all skybox jpg, vtour.json, html, css, svg, png and js files to play the virtual tour, in the same folder.  
+Equi jpg files are not needed to play the virtual tour in the web viewer, it can be viewed with Ricoh Theta app and Panini.  
 The webserver only needs basic static configuration (no php needed to play the virtual tour).  
+
+A live demo of this script can be seen in http://openpano.rf.gd/vtour.html
 
 ## Credits
 
