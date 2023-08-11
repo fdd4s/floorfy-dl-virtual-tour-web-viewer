@@ -31,8 +31,7 @@ A live demo of this script can be seen in http://openpano.rf.gd/vtour.html
 
 ## Credits
 
-Created by fdd  
-Send feedback and questions to fdd4776s@gmail.com  
-Support future improvements of this software https://www.buymeacoffee.com/fdd4s  
+Created by fdd4s  
+Send feedback and questions to fc1471789@gmail.com  
 floorfy-dl.php and arrow.png are public domain https://unlicense.org/  
 Rest of files are from Pannellum and it has MIT license https://github.com/mpetroff/pannellum  
