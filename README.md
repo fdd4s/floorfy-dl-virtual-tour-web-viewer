@@ -1,6 +1,6 @@
 # floorfy downloader virtual tour web viewer
 
-## What does
+## What it does
 
 floorfy-dl downloads cubemap skybox 360 and equirectangular panos photos of floorfy houses virtual tours and selfconfigure vtour.json pannellum virtual tour web viewer to watch the floorfy virtual tour downloaded.  
 Floorfy official viewer seems to be based in Pannellum code, same json variables names, so it's a easy thing.  
