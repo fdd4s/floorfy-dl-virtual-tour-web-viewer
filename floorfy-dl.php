@@ -8,8 +8,6 @@ $floorfy = new Floorfy($url);
 $floorfy->download();
 
 echo("done\n");
-echo("Support future improvements of this software https://www.buymeacoffee.com/fdd4s\n");
-
 
 class Floorfy {
 	var $id;
